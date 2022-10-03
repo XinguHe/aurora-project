@@ -26,8 +26,8 @@ O projeto ainda está em fase de ideias, e não foi iniciado:
 
 ### Deseja Ajudar Com O Projeto 
 
-Gmail: <strong>guilhermecaetanno87123@gmail.com</strong>
+Gmail: [link](guilhermecaetanno87123@gmail.com)
   
-Whatsapp: <strong>+55 (34) 99638-6599</strong>
+Whatsapp: [link](https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C3%A1%2C+XinguheProd&type=phone_number&app_absent=0)
 
-Instagram: <strong>https://www.instagram.com/xinguheprod/</strong>
+Instagram: [link](https://www.instagram.com/xinguheprod/)
