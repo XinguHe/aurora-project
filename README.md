@@ -19,3 +19,7 @@ O projeto ainda está em fase de ideias, e não foi iniciado:
 - [ ] Versão 0.0.0.2_proto
 - [ ] Versão Alpha_Test
 - [ ] Versão Beta_Test
+
+### Organograma
+
+Veja como esta o estado do desenvolvimento aqui(https://github.com/users/XinguHe/projects/5)
