@@ -1,6 +1,6 @@
 # Aurora Project
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+<!--- https://shields.io --->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/XinguHe/aurora-project)
 ![GitHub language count](https://img.shields.io/github/languages/count/XinguHe/aurora-project)
@@ -8,9 +8,13 @@
 
 > Aurora Project e o projeto de um jogo feito por estudandes do curso de engenharia da computação da UEMG - Ituiutaba
 > 
-> um "rpg" com uma historia a cada escolha leva a um final diferente
+> Sendo um jogo que cada escolha o levara a um final diferente
 
-### Dev_Updates
+### Organograma
+
+Veja como esta o estado do desenvolvimento [AQUI](https://github.com/users/XinguHe/projects/5)
+
+### Updates
 
 O projeto ainda está em fase de ideias, e não foi iniciado:
 
@@ -20,6 +24,10 @@ O projeto ainda está em fase de ideias, e não foi iniciado:
 - [ ] Versão Alpha_Test
 - [ ] Versão Beta_Test
 
-### Organograma
+### Deseja Ajudar Com O Projeto 
 
-Veja como esta o estado do desenvolvimento [AQUI](https://github.com/users/XinguHe/projects/5)
+Gmail: <strong>guilhermecaetanno87123@gmail.com</strong>
+  
+Whatsapp: <strong>+55 (34) 99638-6599</strong>
+
+Instagram: <strong>https://www.instagram.com/xinguheprod/</strong>
