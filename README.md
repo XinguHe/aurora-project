@@ -21,9 +21,3 @@ O projeto ainda está em fase de ideias, e não foi iniciado:
 - [ ] Versão 0.0.0.2_proto
 - [ ] Versão Alpha_Test
 - [ ] Versão Beta_Test
-
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-[⬆ Voltar ao topo](#aurora-project)<br>
