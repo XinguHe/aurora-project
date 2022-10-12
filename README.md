@@ -12,7 +12,7 @@
 
 ### Organograma
 
-Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/invite/b/tcVUTd8K/451f58d3262d5aa6676d69ec74db0acf/project-aurora)
+Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/project-aurora)
 
 ### Updates
 
