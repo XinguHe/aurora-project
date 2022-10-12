@@ -12,7 +12,7 @@
 
 ### Organograma
 
-Veja como esta o estado do desenvolvimento [AQUI](https://github.com/users/XinguHe/projects/5)
+Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/invite/b/tcVUTd8K/451f58d3262d5aa6676d69ec74db0acf/project-aurora)
 
 ### Updates
 
