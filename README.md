@@ -16,7 +16,8 @@ Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/
 
 ### Updates
 
-O projeto ainda está em fase de ideias, e não foi iniciado:
+Versã o Atual Do Projeto
+>O grande parte do projeto ainda está em fase de ideias, e pode não ter sido iniciado
 
 - [x] 0.0.0.1D_Walk_proto
 - [x] 0.0.0.2D_Colision_proto
