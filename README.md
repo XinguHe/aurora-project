@@ -6,9 +6,8 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/XinguHe/aurora-project)
 ![GitHub all releases](https://img.shields.io/github/downloads/XinguHe/aurora-project/total)
 
-> Aurora Project e o projeto de um jogo feito por estudandes do curso de engenharia da computação da UEMG - Ituiutaba
-> 
-> Sendo um jogo que cada escolha o levara a um final diferente
+Aurora Project e o projeto de um jogo feito por estudandes do curso de engenharia da computação da UEMG - Ituiutaba
+Sendo um jogo que cada escolha o levara a um final diferente
 
 ### Organograma
 
