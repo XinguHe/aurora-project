@@ -18,10 +18,15 @@ Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/
 
 O projeto ainda está em fase de ideias, e não foi iniciado:
 
-- [x] Versão 0.0.0.1_walk_proto
-- [x] Versão 0.0.0.2_colision_proto
-- [x] Versão 0.0.0.3_camera_proto
-- [ ] Versão 0.0.0.4_itens_proto
+- [x] 0.0.0.1D_Walk_proto
+- [x] 0.0.0.2D_Colision_proto
+- [x] 0.0.0.3D_Camera_proto
+- [ ] 0.0.0.4D_Item_proto
+- [ ] 0.0.0.5D_Early_Gamplay_proto
+- [ ] 0.0.0.6D_NPC_proto
+- [ ] 0.0.0.7D_Map_proto
+- [ ] 0.0.0.8D_UI_proto
+- [ ] 0.0.0.9D_History_proto
 
 ### Deseja Ajudar Com O Projeto 
 
