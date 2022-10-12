@@ -18,12 +18,13 @@ Veja como esta o estado do desenvolvimento [AQUI](https://github.com/users/Xingu
 
 O projeto ainda está em fase de ideias, e não foi iniciado:
 
-- [x] Versão 0.0.0.0_walk_proto
-- [x] Versão 0.0.0.0_colision_proto
-- [ ] Versão 0.0.0.0_itens_proto
-- [ ] Versão 0.0.0.0_gameplay_proto
-- [ ] Versão 0.0.0.1_gameplay_proto
-- [ ] Versão 0.0.0.2_gameplay_proto
+- [x] Versão 0.0.0.1_walk_proto
+- [x] Versão 0.0.0.2_colision_proto
+- [x] Versão 0.0.0.3_camera_proto
+- [ ] Versão 0.0.0.4_itens_proto
+- [ ] Versão 0.0.1.1_gameplay_proto
+- [ ] Versão 0.0.1.2_gameplay_proto
+- [ ] Versão 0.0.1.3_gameplay_proto
 - [ ] Versão Alpha_Test
 - [ ] Versão Beta_Test
 
