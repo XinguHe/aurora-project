@@ -22,11 +22,6 @@ O projeto ainda está em fase de ideias, e não foi iniciado:
 - [x] Versão 0.0.0.2_colision_proto
 - [x] Versão 0.0.0.3_camera_proto
 - [ ] Versão 0.0.0.4_itens_proto
-- [ ] Versão 0.0.1.1_gameplay_proto
-- [ ] Versão 0.0.1.2_gameplay_proto
-- [ ] Versão 0.0.1.3_gameplay_proto
-- [ ] Versão Alpha_Test
-- [ ] Versão Beta_Test
 
 ### Deseja Ajudar Com O Projeto 
 
