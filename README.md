@@ -20,7 +20,7 @@ Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/
 
 >Não Tera Updates Dentro De 1/2 Meses
 
-Versão Atual Do Projeto
+Versão Atual Do Projeto (GameMaker)
 >O grande parte do projeto ainda está em fase de ideias, e pode não ter sido iniciado
 
 - [x] 0.0.0.1D_Walk_proto
