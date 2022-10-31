@@ -15,12 +15,10 @@ Sendo um jogo que cada escolha o levara a um final diferente
 Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/project-aurora)
 
 ### Updates
-
->O Projeto Esta Sendo Portado Para A Unreal Engine 5
-
 >Não Tera Updates Dentro De 1/2 Meses
 
 Versão Atual Do Projeto (GameMaker)
+
 >O grande parte do projeto ainda está em fase de ideias, e pode não ter sido iniciado
 
 - [x] 0.0.0.1D_Walk_proto
@@ -28,10 +26,6 @@ Versão Atual Do Projeto (GameMaker)
 - [x] 0.0.0.3D_Camera_proto
 - [ ] 0.0.0.4D_Item_proto
 - [ ] 0.0.0.5D_Early_Gamplay_proto
-- [ ] 0.0.0.6D_NPC_proto
-- [ ] 0.0.0.7D_Map_proto
-- [ ] 0.0.0.8D_UI_proto
-- [ ] 0.0.0.9D_History_proto
 
 ### Deseja Ajudar Com O Projeto 
 
