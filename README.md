@@ -31,8 +31,8 @@ Versão GameMaker
 
 Versão Unity
 
--[ ] 0.0.0.0A_D_Test
--[ ] 0.0.0.0B_D_Port
+-[x] 0.0.0.0A_D_Test
+-[x] 0.0.0.0B_D_Port
 
 ### Deseja Ajudar Com O Projeto 
 
