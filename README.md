@@ -31,9 +31,9 @@ Versão GameMaker
 
 Versão Unity
 
--[x] 0.0.0.0A_D_Test
--[x] 0.0.0.0B_D_Port
-
+- [ ] 0.0.0.0A_D_Test
+- [ ] 0.0.0.0B_D_Port
+ 
 ### Deseja Ajudar Com O Projeto 
 
 Gmail: [link](guilhermecaetanno87123@gmail.com)
