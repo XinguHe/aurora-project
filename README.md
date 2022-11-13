@@ -19,20 +19,14 @@ Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/
 
 >Projeto Sendo Portado Para a Unity 
 
-Versão GameMaker
-
 >O grande parte do projeto ainda está em fase de ideias, e pode não ter sido iniciado
 
-- [x] 0.0.0.1D_Walk_proto
-- [x] 0.0.0.2D_Colision_proto
-- [x] 0.0.0.3D_Camera_proto
-- [ ] 0.0.0.4D_Item_proto
-- [ ] 0.0.0.5D_Early_Gamplay_proto
+Versão Atual (Unity)
 
-Versão Unity
-
-- [ ] 0.0.0.0A_D_Test
-- [ ] 0.0.0.0B_D_Port
+- [x] 0.0.0.0D_Test_Proto
+- [ ] 0.0.0.1D_Walk_proto
+- [ ] 0.0.0.2D_Colision_proto
+- [ ] 0.0.0.3D_Camera_proto
  
 ### Deseja Ajudar Com O Projeto 
 
