@@ -8,7 +8,7 @@
 
 Aurora Project e o projeto de um jogo feito por estudandes do curso de engenharia da computação da UEMG - Ituiutaba
 
-Sendo um jogo que cada escolha o levara a um final diferente
+Sendo um jogo De Terror que cada escolha o levara a um final diferente (Ainda Em Criação)
 
 ### Organograma
 
@@ -24,7 +24,7 @@ Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/
 Versão Atual (Unity)
 
 - [x] 0.0.0.0D_Test_Proto
-- [ ] 0.0.0.1D_Walk_proto
+- [x] 0.0.0.1D_Walk_proto
 - [ ] 0.0.0.2D_Colision_proto
 - [ ] 0.0.0.3D_Camera_proto
  
