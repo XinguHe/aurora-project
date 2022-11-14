@@ -13,6 +13,7 @@ Sendo um jogo De Terror que cada escolha o levara a um final diferente (Ainda Em
 ### Organograma
 
 Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/project-aurora)
+
 Para Baixar E Testar O Jogo [Releases](https://github.com/XinguHe/aurora-project/releases)
 
 ### Updates
