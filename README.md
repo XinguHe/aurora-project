@@ -25,11 +25,9 @@ Para Baixar E Testar O Jogo [Releases](https://github.com/XinguHe/aurora-project
 
 Versão Atual (Unity)
 
-- [x] 0.0.0.0D_Test_Proto
-- [x] 0.0.0.1D_Walk_proto
-- [ ] 0.0.0.2D_Colision_proto
-- [ ] 0.0.0.3D_Camera_proto
- 
+- [x] 0.0.0.3D_Camera_proto
+- [ ] 0.0.0.4D_Gameplay_proto
+
 ### Deseja Ajudar Com O Projeto 
 
 Gmail: [link](guilhermecaetanno87123@gmail.com)
