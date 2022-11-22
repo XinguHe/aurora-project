@@ -23,7 +23,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Windows:
 
-Baixar Zip/Rar na aba [Releases](https://github.com/XinguHe/aurora-project/releases), Extrair e abrir o "Project Aurora (DEV).exe"
+Baixar Zip/Rar na aba [Releases](https://github.com/XinguHe/aurora-project/releases), Extrair e abrir o "Project Aurora.exe"
 
 ## Updates
 >O grande parte do projeto ainda está em fase de ideias, e pode não ter sido iniciado
