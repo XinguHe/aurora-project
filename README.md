@@ -33,13 +33,14 @@ Versão Atual (Unity)
 - [x] 0.0.0.3D_Camera_proto
 - [ ] 0.0.0.4D_Gameplay_proto
 
-## 📫 Contribuindo para Project Aurora
-Entre em contato comigo a partir de
+## 📫 Quer Ajudar No Projeto
 
+Caso Queria Ajudar No Projeto, Ter Seu Nome Em Todos Os Patch/Updates
+Acesso A Versões De Desenvolvimento, Updates Futuros, Ou Apenas Conversar 
+Discord (Grupo) : [link](https://discord.gg/33Nsvg7Ysv)
+Discord (Contatos) : XinguHeProd#2057
 Gmail: [link](guilhermecaetanno87123@gmail.com)
-  
 Whatsapp: [link](https://api.whatsapp.com/send/?phone=%2B5534996386599&text=Ol%C3%A1%2C+XinguheProd&type=phone_number&app_absent=0)
-
 Instagram: [link](https://www.instagram.com/xinguheprod/)
 
 ## Mais
