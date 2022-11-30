@@ -84,6 +84,6 @@ Instagram: [link](https://www.instagram.com/xinguheprod/)
 ## Mais
 
 Veja como esta o estado do desenvolvimento [AQUI](https://trello.com/b/tcVUTd8K/project-aurora)
->Ainda não atuleizei essa pagina 
+>Ainda não estou fazendo updates essa pagina 
 
 Para Baixar E Testar O Jogo [Releases](https://github.com/XinguHe/aurora-project/releases)
