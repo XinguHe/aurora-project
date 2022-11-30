@@ -33,6 +33,32 @@ Versão Atual (Unity)
 - [x] 0.0.0.3D_Camera_proto
 - [ ] 0.0.0.4D_Gameplay_proto
 
+## 🤝 Colaboradores
+
+Agradeco às seguintes pessoas que estão contribuíbuindo para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/70610129?v=4" width="100px;" alt="Foto do XinguHeProd no GitHub"/><br>
+        <sub>
+          <b>XinguHeProd</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://cdn.discordapp.com/attachments/743545757336076308/1047521312245035098/frye.jpeg" width="100px;" alt="Foto do Sanazzaro no Discord "/><br>
+        <sub>
+          <b>Sanazzaro</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## 📫 Quer Ajudar No Projeto
 
 Caso Queria Ajudar No Projeto, Ter Seu Nome Em Todos Os Patch/Updates
