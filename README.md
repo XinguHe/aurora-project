@@ -12,11 +12,18 @@ Sendo um jogo De Terror que cada escolha o levara a um final diferente (Ainda Em
 
 ## 💻 Pré-requisitos
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você tem uma máquina Windows (Futuramente com builds para Linux)
-* Intel Core I3/I5 6° Geração ou Superiores
+
+Minimos
+* Intel Core I5 3° Geração ou Superiores
+* 6 GB de RAM
+* Intel® HD Graphics 2500 ou Posteriores
+* 100MB de Armazenamento
+
+Recomendado
+* Intel Core I5 10° Geração ou Superiores
 * 8 GB de RAM
-* Intel Iris Xe (Não Oficial)
+* Intel Iris Xe ou Posteriores
 * 100MB de Armazenamento
 
 ### 🚀 Instalando Project Aurora
