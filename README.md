@@ -37,8 +37,9 @@ Baixar Zip/Rar na aba [Releases](https://github.com/XinguHe/aurora-project/relea
 
 Versão Atual (Unity)
 
-- [x] 0.0.0.3D_Camera_proto
-- [ ] 0.0.0.4D_Gameplay_proto
+- [x] 0.0.0.4D(2.2)_Optimazer
+- [x] 0.0.0.5D_Enemy_Proto
+- [ ] 0.0.0.6D_IA_Proto
 
 ## 🤝 Colaboradores
 
